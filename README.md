@@ -15,3 +15,6 @@ Usage:
 Data Collection: Utilize the provided scripts to capture images and corresponding ground truth labels during simulation testing sessions within the NVIDIA platform.
 Model Training: Preprocess the collected dataset and train the deep learning model using established methodologies and tools compatible with the NVIDIA Self-Driving Car Simulation Platform.
 Simulation Deployment: Deploy the trained model within the simulation environment to observe and evaluate the autonomous driving capabilities of the simulated vehicle.
+
+![image](https://github.com/Arfan12630/Self-Driving-Car-Simulation/assets/87868992/f33bbaa3-755a-4b37-a34e-1437b64fe2b6)
+
